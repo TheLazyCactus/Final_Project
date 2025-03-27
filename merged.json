@@ -509,38 +509,6 @@
             ]
         },
         {
-            "name": "Fromage à pâte dure",
-            "slug": "fromagedure",
-            "ecv": 6.27838,
-            "footprint": 6.27838,
-            "footprintDetail": [
-                {
-                    "id": 30,
-                    "value": 5.2225
-                },
-                {
-                    "id": 31,
-                    "value": 0.35625
-                },
-                {
-                    "id": 32,
-                    "value": 0.40975000000000006
-                },
-                {
-                    "id": 33,
-                    "value": 0.24625
-                },
-                {
-                    "id": 34,
-                    "value": 0.0368
-                },
-                {
-                    "id": 35,
-                    "value": 0.00683
-                }
-            ]
-        },
-        {
             "name": "Fêta (brebis)",
             "slug": "feta",
             "ecv": 6.30563,
@@ -573,38 +541,6 @@
             ]
         },
         {
-            "name": "Fromage à pâte molle",
-            "slug": "fromagemolle",
-            "ecv": 5.144405000000001,
-            "footprint": 5.144405000000001,
-            "footprintDetail": [
-                {
-                    "id": 30,
-                    "value": 4.4375
-                },
-                {
-                    "id": 31,
-                    "value": 0.2335
-                },
-                {
-                    "id": 32,
-                    "value": 0.17325000000000002
-                },
-                {
-                    "id": 33,
-                    "value": 0.2565
-                },
-                {
-                    "id": 34,
-                    "value": 0.036825
-                },
-                {
-                    "id": 35,
-                    "value": 0.00683
-                }
-            ]
-        },
-        {
             "name": "Mozarella",
             "slug": "mozarella",
             "ecv": 4.71463,
@@ -625,38 +561,6 @@
                 {
                     "id": 33,
                     "value": 0.252
-                },
-                {
-                    "id": 34,
-                    "value": 0.0368
-                },
-                {
-                    "id": 35,
-                    "value": 0.00683
-                }
-            ]
-        },
-        {
-            "name": "Fromage bleu",
-            "slug": "fromagebleu",
-            "ecv": 6.164963333333335,
-            "footprint": 6.164963333333335,
-            "footprintDetail": [
-                {
-                    "id": 30,
-                    "value": 4.943333333333334
-                },
-                {
-                    "id": 31,
-                    "value": 0.22399999999999998
-                },
-                {
-                    "id": 32,
-                    "value": 0.69
-                },
-                {
-                    "id": 33,
-                    "value": 0.264
                 },
                 {
                     "id": 34,
@@ -1245,34 +1149,6 @@
             ]
         },
         {
-            "name": "Rocher au chocolat",
-            "slug": "boucheechocolat",
-            "ecv": 10.521899999999999,
-            "footprint": 10.521899999999999,
-            "footprintDetail": [
-                {
-                    "id": 30,
-                    "value": 9.01
-                },
-                {
-                    "id": 31,
-                    "value": 0.283
-                },
-                {
-                    "id": 32,
-                    "value": 0.957
-                },
-                {
-                    "id": 33,
-                    "value": 0.251
-                },
-                {
-                    "id": 34,
-                    "value": 0.0209
-                }
-            ]
-        },
-        {
             "name": "Pâte à tartiner à la noisette",
             "slug": "pateatartiner",
             "ecv": 9.1169,
@@ -1297,90 +1173,6 @@
                 {
                     "id": 34,
                     "value": 0.0209
-                }
-            ]
-        },
-        {
-            "name": "Brownie au chocolat",
-            "slug": "brownie",
-            "ecv": 8.3569,
-            "footprint": 8.3569,
-            "footprintDetail": [
-                {
-                    "id": 30,
-                    "value": 6.67
-                },
-                {
-                    "id": 31,
-                    "value": 0.247
-                },
-                {
-                    "id": 32,
-                    "value": 1.16
-                },
-                {
-                    "id": 33,
-                    "value": 0.253
-                },
-                {
-                    "id": 34,
-                    "value": 0.0269
-                }
-            ]
-        },
-        {
-            "name": "Pain au chocolat ou chocolatine",
-            "slug": "painauchocolat",
-            "ecv": 5.7291,
-            "footprint": 5.7291,
-            "footprintDetail": [
-                {
-                    "id": 30,
-                    "value": 4.75
-                },
-                {
-                    "id": 31,
-                    "value": 0.212
-                },
-                {
-                    "id": 32,
-                    "value": 0.536
-                },
-                {
-                    "id": 33,
-                    "value": 0.219
-                },
-                {
-                    "id": 34,
-                    "value": 0.0121
-                }
-            ]
-        },
-        {
-            "name": "Cookie au pépites de chocolat",
-            "slug": "cookie",
-            "ecv": 6.272900000000001,
-            "footprint": 6.272900000000001,
-            "footprintDetail": [
-                {
-                    "id": 30,
-                    "value": 4.84
-                },
-                {
-                    "id": 31,
-                    "value": 0.296
-                },
-                {
-                    "id": 32,
-                    "value": 0.88
-                },
-                {
-                    "id": 33,
-                    "value": 0.23
-                },
-                {
-                    "id": 34,
-                    "value": 0.0269
                 }
             ]
         },
@@ -4057,8 +3849,8 @@
         {
             "name": "Chocolat",
             "slug": "chocolat",
-            "ecv": 10.8898,
-            "footprint": 10.8898,
+            "ecv": 7.8898,
+            "footprint": 7.8898,
             "footprintDetail": [
                 {
                     "id": 30,
@@ -4079,42 +3871,38 @@
                 {
                     "id": 34,
                     "value": 0.037
-                },
-                {
-                    "id": 35,
-                    "value": 0
                 }
             ]
         },
         {
             "name": "Fromage",
             "slug": "fromage",
-            "ecv": 14.473,
-            "footprint": 14.473,
+            "ecv": 5.8626,
+            "footprint": 5.8626,
             "footprintDetail": [
                 {
                     "id": 30,
-                    "value": 13.09
+                    "value": 4.8678
                 },
                 {
                     "id": 31,
-                    "value": 0.74
+                    "value": 0.2713
                 },
                 {
                     "id": 32,
-                    "value": 0.172
+                    "value": 0.4243
                 },
                 {
                     "id": 33,
-                    "value": 0.138
+                    "value": 0.2556
                 },
                 {
                     "id": 34,
-                    "value": 0.333
+                    "value": 0.0368
                 },
                 {
                     "id": 35,
-                    "value": 0
+                    "value": 0.0068
                 }
             ]
         },
@@ -4307,6 +4095,34 @@
                 {
                     "id": 35,
                     "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Seigle",
+            "slug": "seigle",
+            "ecv": 1.2262635,
+            "footprint": 1.2262635,
+            "footprintDetail": [
+                {
+                    "id": 30,
+                    "value": 0.6655
+                },
+                {
+                    "id": 31,
+                    "value": 0.1510385
+                },
+                {
+                    "id": 32,
+                    "value": 0.240525
+                },
+                {
+                    "id": 33,
+                    "value": 0.1515
+                },
+                {
+                    "id": 34,
+                    "value": 0.0177
                 }
             ]
         }
