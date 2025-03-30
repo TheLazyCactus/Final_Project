@@ -12,6 +12,8 @@
 - [https://impactco2.fr/doc/api](https://impactco2.fr/outils/alimentation)
 - https://impactco2.fr/outils/alimentation
 - https://www.carrefour.fr/
+- https://github.com/deepdoctection/deepdoctection/blob/master/README.md
+- https://apyhub.com/utility/extractor-pdf-text
 
 ## Goal
 
