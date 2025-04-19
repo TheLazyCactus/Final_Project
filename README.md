@@ -51,3 +51,5 @@ Data Scenario:
 - General: poids et % ingredient
 - No ingredient but quantity (soada, wine): name = unique ingredient + quantity
 - No ingredient and no quantity: Look at name and if in the list ask user for quantity (fuits and vegetables)
+
+- API key ChatGPT: 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
